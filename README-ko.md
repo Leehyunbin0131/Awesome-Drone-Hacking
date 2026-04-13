@@ -1,9 +1,6 @@
 <!--lint disable awesome-toc-->
 # Awesome Drone Hacking (한국어) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**[English](README.md)** · 이 문서는 [README.md](README.md)의 한국어 번역입니다.
-
-
 <!-- markdownlint-disable MD033 -->
 <p align="center">
   <a href="https://x.com/intent/tweet?text=Awesome%20Drone%20Hacking%20-%20A%20list%20of%20awesome%20drone%20hacking%20tools%20and%20resources.%0Ahttps%3A%2F%2Fgithub.com%2Fnicholasaleks%2FAwesome-Drone-Hacking&hashtags=awesomelists,drone,hacking,cybersecurity,infosec" target="_blank">
@@ -29,6 +26,7 @@
 
 <p align="center">
   <strong>멋진 드론 해킹 도구와 자료 모음입니다.</strong><br/>
+  <small><a href="README.md">English</a> | <a href="README-ko.md"><b>한국어</b></a></small><br/><br/>
 
   <img
    src="https://github.com/nicholasaleks/Awesome-Drone-Hacking/blob/main/Awesome-Drone-Hacking-Banner.png?raw=true"
